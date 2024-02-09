@@ -32,8 +32,8 @@ This is a Java-based software solution for managing travel packages, destination
 3. Make changes and commit them.
 4. Push changes to your fork.
 5. Submit a pull request with a description.
-`![image](https://github.com/divyanshu2003singh/Travel-Agency-Management-System/assets/97529494/22173de0-0542-4ceb-bb54-1f2724eaca4d)
-`
 
+
+![Image description]( /Users/shubham/Downloads/WhatsApp\ Image\ 2024-02-09\ at\ 1.44.35\ PM.jpeg )
 
 

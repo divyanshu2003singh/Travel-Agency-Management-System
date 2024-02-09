@@ -34,6 +34,6 @@ This is a Java-based software solution for managing travel packages, destination
 5. Submit a pull request with a description.
 
 
-![Image](/Users/shubham/Downloads/WhatsApp\ Image\ 2024-02-09\ at\ 1.44.35\ PM.jpeg)
+![Alt Text](Image URL)
 
 

@@ -13,10 +13,10 @@ This is a Java-based software solution for managing travel packages, destination
 
 **Installation:**
 
-1. Clone the repository: `git clone https://github.com/your_username/travel-agency-management.git`
+1. Clone the repository: `git clone https://github.com/divyanshu2003singh/Travel-Agency-Management-System.git`
 2. Open the project in your Java IDE.
-3. Compile the project.
-4. Run the Main class.
+3. Compile the project using `javac Main.java`.
+4. Run the Main class using `java Main`.
 
 **Usage:**
 
@@ -32,14 +32,8 @@ This is a Java-based software solution for managing travel packages, destination
 3. Make changes and commit them.
 4. Push changes to your fork.
 5. Submit a pull request with a description.
+`![image](https://github.com/divyanshu2003singh/Travel-Agency-Management-System/assets/97529494/22173de0-0542-4ceb-bb54-1f2724eaca4d)
+`
 
-**Testing:**
 
-1. Open the project in your Java IDE.
-2. Navigate to the test directory.
-3. Run the test classes.
-
-**Note:**
-
-This is a summary of the information you provided. I don't have access to the actual code, so additional details might be missing.
 
